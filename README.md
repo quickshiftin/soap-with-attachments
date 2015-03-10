@@ -2,7 +2,7 @@
 PHP SoapClient supporting SOAP with Attachments (SwA)
 
 ## Warning: This is example code, not a drop in library
-### You will need to mofidy it to your needs.
+### You will need to modify it to your needs.
 
 ## Overview
 
